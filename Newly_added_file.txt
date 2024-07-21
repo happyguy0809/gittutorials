@@ -1,1 +1,3 @@
-This is second newly added file. Needed to be pushed on the master branch
+This is second newly added file. Needed to be pushed on the master branch. 
+
+Adding the code by cloning the whole git repository 
