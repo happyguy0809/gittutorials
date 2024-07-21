@@ -1,0 +1,1 @@
+This is second newly added file. Needed to be pushed on the master branch
